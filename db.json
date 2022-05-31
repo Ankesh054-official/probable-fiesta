@@ -1,6 +1,8 @@
 
 {
     "script": "",
+    "file_name":"",
+    "directory":"",
     "update_available": "False",
     "update": ""
   }
